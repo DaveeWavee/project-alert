@@ -1,0 +1,14 @@
+2025-06-19 08:31:34,182 - INFO - Alerts saved successfully to test_alerts.json.
+2025-06-19 08:31:34,182 - INFO - Alert for BTC above $50000.0 added. ID: 1750321894.1818001
+2025-06-19 08:31:34,182 - INFO - Alerts loaded successfully from test_alerts.json.
+2025-06-19 08:31:34,186 - INFO - Notification sent for BTC: BTC is now $55000.0, which is above your target of $50000.
+2025-06-19 08:31:34,187 - INFO - Notification sent for ETH: ETH is now $3500.0, which is below your target of $4000.
+2025-06-19 08:31:34,188 - ERROR - Error decoding JSON from test_alerts.json. File might be corrupted. Starting with no alerts.
+2025-06-19 08:31:34,188 - INFO - Alerts loaded successfully from test_alerts.json.
+2025-06-19 08:31:34,188 - INFO - test_alerts.json not found. Starting with no alerts.
+2025-06-19 08:31:34,189 - INFO - Alerts saved successfully to test_alerts.json.
+2025-06-19 08:31:34,189 - INFO - Alerts saved successfully to test_alerts.json.
+2025-06-19 08:31:34,189 - INFO - Alert for BTC (ID: 1) removed.
+2025-06-19 08:31:34,190 - INFO - Alerts loaded successfully from test_alerts.json.
+2025-06-19 08:31:34,191 - INFO - Alerts saved successfully to test_alerts.json.
+2025-06-19 08:31:34,191 - INFO - Alerts loaded successfully from test_alerts.json.
